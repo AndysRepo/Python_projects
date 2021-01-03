@@ -11,4 +11,4 @@ Most of the codes are heavily commented, however in some cases comments will be 
 
 3. File "**snake_game.py**": a very simple version of the snake game, composed of just two different levels for now. The code requests to have python 3 installed and the "numpy", "graphics" and "secrets" library available.
 
-4. File "**bmp reader**": a (working) attempt to implement an algorithm reading the bmp file format. The code will recostruct, pixel by pixel, a bmp picture and allow the user to visualize it. It makes only use of the "graphics" library.
+4. File "**bmp_reader.py**": a (working) attempt to implement an algorithm reading the bmp file format. The code will recostruct, pixel by pixel, a bmp picture and allow the user to visualize it. It makes only use of the "graphics" library.
